@@ -1,0 +1,9 @@
+C:\Users\john\source\repos\CircuitBreakerSample\CircuitBreakerSample\CB.Models\bin\Debug\netcoreapp3.1\CB.Models.deps.json
+C:\Users\john\source\repos\CircuitBreakerSample\CircuitBreakerSample\CB.Models\bin\Debug\netcoreapp3.1\CB.Models.dll
+C:\Users\john\source\repos\CircuitBreakerSample\CircuitBreakerSample\CB.Models\bin\Debug\netcoreapp3.1\CB.Models.pdb
+C:\Users\john\source\repos\CircuitBreakerSample\CircuitBreakerSample\CB.Models\obj\Debug\netcoreapp3.1\CB.Models.AssemblyInfoInputs.cache
+C:\Users\john\source\repos\CircuitBreakerSample\CircuitBreakerSample\CB.Models\obj\Debug\netcoreapp3.1\CB.Models.AssemblyInfo.cs
+C:\Users\john\source\repos\CircuitBreakerSample\CircuitBreakerSample\CB.Models\obj\Debug\netcoreapp3.1\CB.Models.csproj.CoreCompileInputs.cache
+C:\Users\john\source\repos\CircuitBreakerSample\CircuitBreakerSample\CB.Models\obj\Debug\netcoreapp3.1\CB.Models.dll
+C:\Users\john\source\repos\CircuitBreakerSample\CircuitBreakerSample\CB.Models\obj\Debug\netcoreapp3.1\CB.Models.pdb
+C:\Users\john\source\repos\CircuitBreakerSample\CircuitBreakerSample\CB.Models\obj\Debug\netcoreapp3.1\CB.Models.csprojAssemblyReference.cache
